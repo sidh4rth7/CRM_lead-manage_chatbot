@@ -3,10 +3,7 @@ __pycache__/*
 openai_api_key.txt
 venv
 venv/*
-test.py
-lead_db.py
 dbbase.py
 dbchai.py
-lead_db.db
 constants.py
 main.py
