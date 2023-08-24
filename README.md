@@ -4,7 +4,7 @@ $pip install -r requirements.txt
 ```
 then run the following command:
 ```bash
-$streamlit run cahtbot.py
+$streamlit run lead_chat.py
 ```
 
 Output:
