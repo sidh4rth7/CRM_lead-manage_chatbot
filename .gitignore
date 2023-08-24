@@ -53,6 +53,7 @@ openai_api_key.txt
 
 # Ignore environment-specific settings
 .python-version
+.venv/
 .venv/*
 .env
 
