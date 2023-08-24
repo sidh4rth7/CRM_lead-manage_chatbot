@@ -48,6 +48,8 @@ Follow these steps to set up and run CRM_leadmanageBOT on your local machine:
    ```
 
 5. Access the chatbot interface in your web browser at `http://localhost:8501`.
+## How it works!
+![My CRM_Lead-Manage_Chatbot_ CRUD Operations](https://github.com/sidh4rth7/CRM_lead-manage_chatbot/assets/64648070/c4cdfbbb-19a5-426d-9ff0-e041fe0f0c6f)
 
 ## Usage
 
