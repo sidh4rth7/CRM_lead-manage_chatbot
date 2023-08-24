@@ -94,5 +94,12 @@ How Lead-Manage_chatbot Works!
 ![Update Lead Details](https://github.com/sidh4rth7/CRM_lead-manage_chatbot/assets/64648070/fd4ad824-727d-4d29-86b7-65e57fde8bc2)
 ![Delete Lead Details](https://github.com/sidh4rth7/CRM_lead-manage_chatbot/assets/64648070/5dd2b5a6-f0c3-43ef-a95a-21ccfdfbba05)
 
+![hi](https://github.com/sidh4rth7/CRM_lead-manage_chatbot/assets/64648070/bc63f0f1-9970-40d3-830d-aa59a1321e6d)
+![delete](https://github.com/sidh4rth7/CRM_lead-manage_chatbot/assets/64648070/7a2545a8-1b66-48e5-b997-376ada766ada)
+![chatbot_flow](https://github.com/sidh4rth7/CRM_lead-manage_chatbot/assets/64648070/a4808159-fd1a-4475-b22e-818a9bc767ef)
+![addresult](https://github.com/sidh4rth7/CRM_lead-manage_chatbot/assets/64648070/91f02bde-1e72-4af1-9740-5b0529205849)
+![add](https://github.com/sidh4rth7/CRM_lead-manage_chatbot/assets/64648070/fdac55d3-0dfd-4d18-85ba-0671eb70db27)
+![update](https://github.com/sidh4rth7/CRM_lead-manage_chatbot/assets/64648070/80e9d278-120c-459b-8870-9ffe6904a4d9)
+![show_db](https://github.com/sidh4rth7/CRM_lead-manage_chatbot/assets/64648070/8c031c77-5e37-438c-9a08-52a3c7e8580b)
 
 
