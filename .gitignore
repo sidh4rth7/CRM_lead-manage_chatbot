@@ -4,11 +4,10 @@ openai_api_key.txt
 venv
 venv/*
 dbbase.py
-dbchai.py
+dbchain.py
 constants.py
 main.py
 chatbot.py
 test.py
 lead_db.py
 lead_db.db
-chatbot.py
