@@ -67,3 +67,4 @@ chatbot.py
 test.py
 lead_db.py
 venv
+lead_db.db
