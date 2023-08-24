@@ -53,10 +53,11 @@ openai_api_key.txt
 
 # Ignore environment-specific settings
 .python-version
-.venv/
+.venv/*
 .env
 
 # python files
+*.pyc
 dbbase.py
 dbchain.py
 constants.py
